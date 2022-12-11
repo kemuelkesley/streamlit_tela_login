@@ -1,0 +1,38 @@
+.stButton > button {
+    color: #ffffff;
+    background-color: #c60c35;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+    border-radius: 10px;
+}
+.stButton {
+    color: #ffffff;
+    background-color: #920000;
+    border-color: #920000;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Texto centralizado */
+.stMarkdown {
+    text-align: center;
+}
+
+.css-12ttj6m  {
+    border: 1px solid rgb(2 4 15 / 79%);
+    border-radius: 1.25rem;
+    padding: calc(1em - 1px);
+    /* border: solid 2px; */
+    /* box-shadow: 10px 5px 5px black; */
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+
+}
+
+.css-1n76uvr {
+    gap: 8rem;
+}
