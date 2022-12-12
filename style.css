@@ -33,6 +33,17 @@
 
 }
 
-.css-1n76uvr {
+
+#MainMenu {
+    visibility: hidden;
+}
+
+
+/* .css-1n76uvr {
     gap: 8rem;
+} */
+
+footer {
+    visibility: hidden;
+    
 }
